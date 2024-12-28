@@ -1,0 +1,27 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: linear-gradient(135deg, #1d2671 0%, #c33764 100%);
+  color: #ffffff;
+  font-family: "Arial", sans-serif;
+  font-size: 0.9rem;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+  margin: 0;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  footer {
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+  }
+}
