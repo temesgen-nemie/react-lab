@@ -10,19 +10,19 @@
       "id": 2,
       "name": "Product B",
       "price": 35.5,
-      "in_stock": true
+      "in_stock": false
     },
     {
       "id": 3,
       "name": "Product C",
       "price": 50.0,
-      "in_stock": false
+      "in_stock": true
     },
     {
       "id": 4,
       "name": "Product D",
       "price": 15.75,
-      "in_stock": true
+      "in_stock": false
     },
     {
       "id": 5,
