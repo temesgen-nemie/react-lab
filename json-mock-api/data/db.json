@@ -29,6 +29,12 @@
       "name": "Product E",
       "price": 60.0,
       "in_stock": true
+    },
+    {
+      "id": 6,
+      "name": "Product F",
+      "price": 60.0,
+      "in_stock": true
     }
   ]
 }
